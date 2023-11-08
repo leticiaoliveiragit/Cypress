@@ -1,0 +1,19 @@
+{
+  "name": "exercise-class-8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.3.3",
+    "xpath": "^0.0.33"
+  },
+  "devDependencies": {
+    "cypress-xpath": "^2.0.1"
+  }
+}
